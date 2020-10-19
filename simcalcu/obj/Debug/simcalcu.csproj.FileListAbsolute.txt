@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\simcalcu\simcalcu\bin\Debug\simcalcu.exe.config
+C:\Users\Asus\source\repos\simcalcu\simcalcu\bin\Debug\simcalcu.exe
+C:\Users\Asus\source\repos\simcalcu\simcalcu\bin\Debug\simcalcu.pdb
+C:\Users\Asus\source\repos\simcalcu\simcalcu\obj\Debug\simcalcu.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\simcalcu\simcalcu\obj\Debug\simcalcu.Form1.resources
+C:\Users\Asus\source\repos\simcalcu\simcalcu\obj\Debug\simcalcu.Properties.Resources.resources
+C:\Users\Asus\source\repos\simcalcu\simcalcu\obj\Debug\simcalcu.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\simcalcu\simcalcu\obj\Debug\simcalcu.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\simcalcu\simcalcu\obj\Debug\simcalcu.exe
+C:\Users\Asus\source\repos\simcalcu\simcalcu\obj\Debug\simcalcu.pdb
